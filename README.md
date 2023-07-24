@@ -36,14 +36,14 @@ OS Shell is ~ not ~ Bash,  but has commands sufficient to
 
 ## Usage
 
-- [ ] Read the comments in the my Shell and Bash scripts to better understand what they do.
+- [  ] Read the comments in the my Shell and Bash scripts to better understand what they do.
 
       startup.nsh 
       bootscripts.sh
 
   In any case, usage of these files will not have any adverse effect on any other bootloader systems that might be installed/used in the ESP.
 
-- [ ] Find where the ESP has been mounted in your system,  probably on either `/boot` or `/boot/efi`.
+- [  ] Find where the ESP has been mounted in your system,  probably on either `/boot` or `/boot/efi`.
   Then as root,  copy the above  to the mount point,  next to the preexisting EFI folder.
 
 - [  ] Confirm/add following drivers to EFI/tools folder  -  download from  https://efi.akeo.ie/downloads/efifs-1.9/x64/
