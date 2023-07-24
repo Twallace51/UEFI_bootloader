@@ -24,7 +24,7 @@ If all fail, the firmware runs the anti-bricking/failsafe program `/efi/boot/boo
 
 When the OS Shell runs and before opening a terminal,  it will mount any file systems it can load  and then run the script `startup.nsh`, if present.
 
-OS Shell is \~not\~ Bash,  but has commands sufficient to 
+OS Shell is ~ not ~ Bash,  but has commands sufficient to 
 
 - load additional file system drivers (ext4, ntfs, btrfs, etc)
 - mount the corresponding partitions
