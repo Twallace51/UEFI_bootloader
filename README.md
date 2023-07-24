@@ -48,7 +48,8 @@ OS Shell is ~ not ~ Bash,  but has commands sufficient to
 
 - [  ] Confirm/add following drivers to EFI/tools folder  -  download from  https://efi.akeo.ie/downloads/efifs-1.9/x64/
 
-      ext4_x64.efi  
+      ext4_x64.efi
+    
       btrfs_x64.efi
 
 - [ ] Run  `sudo bash bootscripts.sh` ,  to analyze your current system and put the corresponding Shell boot script in the system's root/.
