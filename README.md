@@ -32,7 +32,7 @@ OS Shell is ~ not ~ Bash,  but has commands sufficient to
 - show a list of options in terminal
 - wait for user input
 
-<sarcastic tone> For any details that I ~ may ~ have skipped here ,  read https://uefi.org/specifications 
+[sarcastic tone] For any details that I ~ may ~ have skipped here ,  read https://uefi.org/specifications 
 
 ## Usage
 
