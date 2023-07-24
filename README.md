@@ -44,7 +44,7 @@ OS Shell is ~ not ~ Bash,  but has commands sufficient to
   In any case, usage of these files will not have any adverse effect on any other bootloader systems that might be installed/used in the ESP.
 
 - [  ] Find where the ESP has been mounted in your system,  probably on either `/boot` or `/boot/efi`.
-  Then as root,  copy the above  to the mount point,  next to the preexisting EFI folder.
+  Then as root,  copy the above scripts to the mount point,  next to the preexisting EFI folder.
 
 - [  ] Confirm/add following drivers to EFI/tools folder  -  download from  https://efi.akeo.ie/downloads/efifs-1.9/x64/
 
