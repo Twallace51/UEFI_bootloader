@@ -56,7 +56,7 @@ OS Shell is ~ not ~ Bash,  but has commands sufficient to
 
 Then either:
 
-- [ ] Update efi boot list and place UEFI OS is ~first~ by using `sudo efibootmgr` ,
+- [ ] Update efi boot list and place UEFI OS is ~ first ~ by using `sudo efibootmgr` ,
   followed by rebooting
 
 - [ ] install Refind and on rebooting,   selecting the  UEFI OS icon
